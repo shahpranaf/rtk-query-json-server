@@ -1,0 +1,26 @@
+{
+  "name": "rtk_query_json_server",
+  "version": "1.0.0",
+  "description": "JSON server for rtk-query-media project",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shahpranaf/rtk-query-json-server.git"
+  },
+  "keywords": [],
+  "author": "Pranav Shah",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shahpranaf/rtk-query-json-server/issues"
+  },
+  "homepage": "https://github.com/shahpranaf/rtk-query-json-server#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "json-serve": "^0.1.0",
+    "json-server": "^0.17.1"
+  }
+}
